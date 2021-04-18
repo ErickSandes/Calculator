@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.952);
+    height: 100%;
+}
+
+.button {
+    width: 55px;
+    height: 55px;
+    font-size: 1.2em;
+    margin: 1px;
+    cursor: pointer;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.button:hover {
+    background: rgba(155, 154, 154, 0.747);
+    transition: 0.2s;
+}
+
+.main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
