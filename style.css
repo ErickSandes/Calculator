@@ -20,7 +20,7 @@ body {
 }
 
 .button:hover {
-    background: rgba(155, 154, 154, 0.747);
+    background: rgba(209, 206, 206, 0.747);
     transition: 0.2s;
 }
 
