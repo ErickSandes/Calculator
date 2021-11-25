@@ -1,2 +1,2 @@
 # Calculator
-👉 https://sandes22-viking.github.io/Calculator/ 👈
+ Here's a calculator with HTML/CSS/JS
